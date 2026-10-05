@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+  <!-- University of Chittagong Institutional Seal Placeholder -->
+  <circle cx="80" cy="80" r="74" fill="#f0fdf4" stroke="#047857" stroke-width="2.5" />
+  <circle cx="80" cy="80" r="66" fill="#ffffff" stroke="#059669" stroke-width="1.2" stroke-dasharray="3 3" />
+  <!-- Heraldic / Academic crest motif -->
+  <g transform="translate(40, 36)">
+    <!-- Torch / Open Book Motif -->
+    <path d="M40 12 L40 40 M24 24 C30 20 38 20 40 24 C42 20 50 20 56 24 L56 50 C48 46 42 46 40 50 C38 46 32 46 24 50 Z" fill="#047857" fill-opacity="0.12" stroke="#047857" stroke-width="2" stroke-linejoin="round" />
+    <circle cx="40" cy="10" r="4" fill="#059669" />
+    <!-- Rising rays -->
+    <path d="M40 0 L40 4 M28 4 L31 7 M52 4 L49 7" stroke="#10b981" stroke-width="1.5" stroke-linecap="round" />
+  </g>
+  <text x="80" y="112" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="10" fill="#064e3b" letter-spacing="0.04em">UNIVERSITY OF</text>
+  <text x="80" y="124" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="11" fill="#047857" letter-spacing="0.06em">CHITTAGONG</text>
+  <text x="80" y="140" text-anchor="middle" font-family="Inter, sans-serif" font-weight="500" font-size="7.5" fill="#64748b" letter-spacing="0.02em">[Official Seal Placeholder]</text>
+</svg>

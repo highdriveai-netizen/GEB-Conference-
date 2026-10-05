@@ -1,0 +1,6 @@
+{
+  "name": "2nd International Biotechnology Conference 2026",
+  "description": "Official website for the 2nd International Biotechnology Conference 2026 organized by the Department of Genetic Engineering & Biotechnology, University of Chittagong, Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
